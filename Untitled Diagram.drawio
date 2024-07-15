@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-15T14:15:44.898Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="xS6sE5rZlyOGuV7EqzRW" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-15T14:19:47.368Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="_JmfSZA27GY4yMHiRTbC" version="24.6.5" type="github">
   <diagram name="Page-1" id="vZtPhp0VgT9XKUIyWFpL">
     <mxGraphModel dx="1134" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -69,6 +69,15 @@
         </mxCell>
         <mxCell id="zvq0UbKQzq3Gj7QngGnI-34" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" vertex="1" parent="zvq0UbKQzq3Gj7QngGnI-32">
           <mxGeometry x="61.75" y="56.5" width="76.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="zvq0UbKQzq3Gj7QngGnI-35" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" vertex="1" parent="zvq0UbKQzq3Gj7QngGnI-20">
+          <mxGeometry x="150" y="342" width="76.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="zvq0UbKQzq3Gj7QngGnI-36" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" vertex="1" parent="zvq0UbKQzq3Gj7QngGnI-20">
+          <mxGeometry x="631.75" y="342" width="76.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="zvq0UbKQzq3Gj7QngGnI-37" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.application_load_balancer;fillColor=#F58536;gradientColor=none;" vertex="1" parent="zvq0UbKQzq3Gj7QngGnI-20">
+          <mxGeometry x="410.5" y="229" width="69" height="72" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
