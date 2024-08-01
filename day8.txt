@@ -1,0 +1,26 @@
+syntax for all loops in shell scripting
+
+
+
+for variable in list
+do
+    # commands to be executed
+done
+
+while [ condition ]
+do
+    # commands to be executed
+done
+
+until [ condition ]
+do
+    # commands to be executed
+done
+
+for i in 1 2 3 4 5
+do
+    if [ $i -eq 3 ]; then
+        break
+    fi
+    echo "Number: $i"
+done
